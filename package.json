@@ -1,0 +1,16 @@
+{
+  "name": "discord-event-dm-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that sends nicely formatted event DMs with role-based opt-out",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hablux",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
